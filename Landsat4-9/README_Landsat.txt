@@ -1,0 +1,2 @@
+For Landsat lake surface water temperature estimates have been corrected using a water correction factor developed by Dyba et al. 2021 (https://doi.org/10.3390/rs14153839), applied by Penelope How, as published in the Greenland Ice Marginal Lake Dataset article (https://doi.org/10.5194/essd-17-6331-2025). The data has been kindly provided by Penny in a csv file for the lake Kangaarsuup Tasersua (lake_id 6 in dataset). 
+

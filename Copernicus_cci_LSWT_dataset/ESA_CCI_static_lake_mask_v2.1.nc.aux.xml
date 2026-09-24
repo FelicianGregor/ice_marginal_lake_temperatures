@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Subdataset name="CCI_lakeid">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">300015655</MDI>
+          <MDI key="STATISTICS_MEAN">6910755.8856383</MDI>
+          <MDI key="STATISTICS_MINIMUM">17</MDI>
+          <MDI key="STATISTICS_STDDEV">45005152.270626</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
